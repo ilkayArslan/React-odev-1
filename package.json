@@ -1,0 +1,16 @@
+{
+  "name": "react-odev-1",
+  "version": "1.0.0",
+  "description": "\"react ödevi hazirlama\"",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "\"ilkay Arslan\"",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "slugify": "^1.6.5"
+  }
+}
